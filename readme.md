@@ -1,0 +1,1 @@
+This repository is from my Day 0 of Coding Dojo.
